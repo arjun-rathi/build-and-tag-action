@@ -1,5 +1,5 @@
 <h3 align="center">📦🔖</h3>
-<h3 align="center">Build and Tag action</h3>
+<h3 align="center">Build and Tag action - Edited</h3>
 
 <p align="center"><a href="https://github.com/JasonEtco/build-and-tag-action"><img alt="GitHub Actions status" src="https://github.com/JasonEtco/build-and-tag-action/workflows/CI/badge.svg"></a> <a href="https://codecov.io/gh/JasonEtco/build-and-tag-action/"><img src="https://badgen.now.sh/codecov/c/github/JasonEtco/build-and-tag-action" alt="Codecov"></a></p>
 
